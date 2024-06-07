@@ -1,1 +1,1 @@
-# shampoo-sales Prediction
+# Shampoo-sales Prediction
